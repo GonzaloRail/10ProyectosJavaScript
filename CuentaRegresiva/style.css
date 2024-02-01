@@ -1,0 +1,21 @@
+body{
+    background-image: url(portada.jpg);
+    background-size: cover; /* Cubre completamente el área, manteniendo la proporción de aspecto */
+    background-position: center; /* Centra la imagen en el fondo */
+    color: white;
+    text-align: center;
+    margin: 0; /* Elimina los márgenes predeterminados */
+    font-family: 'Times New Roman', Times, serif;
+    height: 100vh; /* Ocupa el 100% de la altura de la pantalla */
+
+}
+.container{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+.num{
+    font-size: 40px;
+    font-weight: 700;
+}
