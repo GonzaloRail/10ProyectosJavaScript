@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Agrega un event listener al botón "Sí"
     botonSi.addEventListener("click", function() {
-        aceptacion.innerHTML="Yeeeeeeeeeeeeeeeeee, Te busco a la 1 pm";
+        aceptacion.innerHTML="Yeeeeeeeeeeeeeeeeee, Te quiero mucho";
     });
 
     // Agrega un event listener al botón "No"
